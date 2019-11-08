@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+    border-radius: 1px solid black;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-left: 38%;
+}
