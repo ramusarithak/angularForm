@@ -4,12 +4,15 @@ body {
 }
 
 .card {
+    padding: 2%;
     background-image: linear-gradient(to right, #fbc2eb 0%, #a6c1ee 51%, #fbc2eb 100%);
     display: flex;
     justify-content: center;
     width: 30%;
     height: 100%;
-    border-radius: 1px solid black;
+    border-radius: 1px solid rgb(65, 60, 60);
+    box-shadow: 2px 2px 2px black;
+    /* box-shadow: yellow; */
 }
 
 .btn {
